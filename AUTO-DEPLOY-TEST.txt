@@ -1,0 +1,4 @@
+EEBA Thai Learning - Auto Deploy Test
+
+This file is only for testing Vercel automatic deployment.
+It does not change the website application code.
